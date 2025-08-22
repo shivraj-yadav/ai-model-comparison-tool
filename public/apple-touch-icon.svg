@@ -1,0 +1,26 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="180" height="180" rx="40" fill="#667eea"/>
+  
+  <!-- Central AI node -->
+  <circle cx="90" cy="90" r="35" fill="#ffffff"/>
+  
+  <!-- Surrounding model nodes -->
+  <circle cx="45" cy="45" r="18" fill="#4facfe"/>
+  <circle cx="135" cy="45" r="18" fill="#00f2fe"/>
+  <circle cx="45" cy="135" r="18" fill="#667eea"/>
+  <circle cx="135" cy="135" r="18" fill="#764ba2"/>
+  
+  <!-- Connection lines -->
+  <line x1="62" y1="62" x2="118" y2="118" stroke="#ffffff" stroke-width="8"/>
+  <line x1="118" y1="62" x2="62" y2="118" stroke="#ffffff" stroke-width="8"/>
+  
+  <!-- AI text in center -->
+  <text x="90" y="100" text-anchor="middle" fill="#667eea" font-family="Arial, sans-serif" font-size="32" font-weight="bold">AI</text>
+  
+  <!-- Small connecting dots -->
+  <circle cx="75" cy="75" r="4" fill="#ffffff"/>
+  <circle cx="105" cy="75" r="4" fill="#ffffff"/>
+  <circle cx="75" cy="105" r="4" fill="#ffffff"/>
+  <circle cx="105" cy="105" r="4" fill="#ffffff"/>
+</svg>

@@ -92,7 +92,7 @@ export const AIModelComparison = () => {
                 <Sparkles className="w-5 h-5 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-foreground">AI Model Comparison BY Shiv</h1>
+                <h1 className="text-xl font-bold text-foreground">AI Model Comparison </h1>
                 <p className="text-sm text-muted-foreground">Compare responses across multiple AI models</p>
               </div>
             </div>
