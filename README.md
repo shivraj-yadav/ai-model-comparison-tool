@@ -36,10 +36,10 @@ A powerful web application to **compare responses from multiple AI models simult
 
 ## 🖼️ Screenshots
 
-![Main Comparison Interface](1.jpg)  
+![Main Comparison Interface](2.jpg)  
 *Main AI comparison interface with real-time responses*
 
-![Model Selection](2.jpg)  
+![Model Selection](1.jpg)  
 *Select the AI models you want to compare*
 
 ![Response Evaluation](3.jpg)  
