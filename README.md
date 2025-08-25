@@ -1,11 +1,5 @@
 # AI Model Comparison Tool 🚀
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/ai-model-comparison-tool)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-model-comparison-tool?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-model-comparison-tool?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-model-comparison-tool)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-
 A powerful web application to **compare responses from multiple AI models simultaneously** using OpenRouter's unified API. Built with **React**, **TypeScript**, **shadcn/ui**, and **Tailwind CSS**.
 
 ---
@@ -57,7 +51,7 @@ A powerful web application to **compare responses from multiple AI models simult
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-model-comparison-tool.git
+git clone https://github.com/shivraj-yadav/ai-model-comparison-tool.git
 cd ai-model-comparison-tool
 npm install
 ```
@@ -134,14 +128,6 @@ src/
 
 ---
 
-## 🔒 Security
-
-- API keys are stored locally in browser `localStorage`
-- For production, implement a backend proxy
-- **Never commit API keys** to GitHub
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repo
@@ -149,12 +135,6 @@ src/
 3. Commit your changes: `git commit -m "Add new feature"`
 4. Push to branch: `git push origin feature/xyz`
 5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -166,7 +146,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS
 
 ---
-
-## 📞 Support
-
-Open an issue on GitHub for questions or help.
